@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <Nav>
       <Logo to="/">
-        <i>{"<ed8en />"}</i>
+        <i>{"<Chef's/>"}</i>
         <span>recipe</span>
       </Logo>
       <Hamburger onClick={() => setIsOpen(!isOpen)}>
