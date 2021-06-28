@@ -1,3 +1,7 @@
+URL:  https://harunsarii.github.io/Recipe-App-React/
+
+![recipe-app](https://user-images.githubusercontent.com/75949382/123626279-582c1c80-d819-11eb-99d0-11419c5e4eb3.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
